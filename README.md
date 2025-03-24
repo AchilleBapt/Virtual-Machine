@@ -8,9 +8,9 @@ This tutorial provides a step-by-step guide to creating a Virtual Machine using 
 
 - ### [How to created a Virtual Machine with Microsoft Azure]
 
-- Open Google Drive
-- Click on New, select Google Sheets and create a new spreadsheet
-- Name your spreadsheet (e.g., "Payroll System")
+- Step 1: Sign in to Azure usinf microsoft account.
+- 1 Go to Azure Portal (https://portal.azure.com) 
+- 2 Log in with your Mcrosoft Azure account.
 
 <img src="https://i.imgur.com/9x9CXBk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
