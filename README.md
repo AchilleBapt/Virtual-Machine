@@ -19,8 +19,12 @@ This tutorial provides a step-by-step guide to creating a Virtual Machine using 
 - 2 Click on Birtual Machines from the search bar.
 - 3 Click create
 
--  <img src="https://i.imgur.com/oxE3lLb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/oxE3lLb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 - 4 select Azure Virtual Machine.
 
--
+<img src="https://i.imgur.com/Nh7k3qW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Step 3: Configure Basic Settings.
+- Step 1: .
+
